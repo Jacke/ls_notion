@@ -1,0 +1,26 @@
+{
+  "name": "ls_notion",
+  "version": "1.0.0",
+  "description": "LS command to notion (database, table)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacke/ls_notion.git"
+  },
+  "keywords": [
+    "notion",
+    "api",
+    "ls",
+    "notion",
+    "database"
+  ],
+  "author": "Stan Sobolev github: @Jacke",
+  "license": "CC-BY-1.0",
+  "bugs": {
+    "url": "https://github.com/Jacke/ls_notion/issues"
+  },
+  "homepage": "https://github.com/Jacke/ls_notion#readme"
+}
